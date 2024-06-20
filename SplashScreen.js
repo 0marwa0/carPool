@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'eact-native';
 const SplashScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Carpool</Text>
+      <Text style={styles.text}>Carpool test</Text>
     </View>
   );
 };
